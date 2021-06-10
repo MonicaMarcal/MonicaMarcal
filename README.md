@@ -1,5 +1,5 @@
 
-## Olá! Sou a Mônica :octocat: bem-vindos :space_invader:
+## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
  <div>
   <a href="https://github.com/MonicaMarcal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonicaMarcal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
