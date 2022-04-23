@@ -2,9 +2,9 @@
 ## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
 
 Atualmente, cursando analise e desenvolvimento de sistemas em conjunto com um curso focado em programação.
-##
+
 Aplicando tecnologias como:
-HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design.
+HTML, CSS, JavaScript, React, REST, Api Restful, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Firebase, Testes unitários e UI Design.
 ##
  <div>
   <a href="https://github.com/MonicaMarcal">
