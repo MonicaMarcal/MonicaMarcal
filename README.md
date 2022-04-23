@@ -1,9 +1,11 @@
 
 ## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
 
-Atualmente, cursando analise e desenvolvimento de sistemas em conjunto com um curso focado em programação aprendendo algumas tecnologias entre elas estão:
+Atualmente, cursando analise e desenvolvimento de sistemas em conjunto com um curso focado em programação.
+##
+Aplicando tecnologias como:
 HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design.
-
+##
  <div>
   <a href="https://github.com/MonicaMarcal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MonicaMarcal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
