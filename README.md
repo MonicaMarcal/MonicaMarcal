@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+
 ## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
 
 Atualmente, cursando análise e desenvolvimento de sistemas em conjunto com um curso focado em programação.
