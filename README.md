@@ -1,7 +1,7 @@
 
 ## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
 
-Atualmente, cursando análise e desenvolvimento de sistemas em conjunto com um curso focado em programação.
+Atualmente, cursando análise e desenvolvimento de sistemas em conjunto com cursos de programação.
 
 Aplicando tecnologias como:
 HTML, CSS, JavaScript, React, REST, Api Restful, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Firebase, Testes unitários e UI Design.
