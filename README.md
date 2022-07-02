@@ -41,9 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false&username=monicamarcal" height="150" alt="languages graph"  />
 </div>
 
-<div align="left">
 ![Snake animation](https://github.com/barretogustavo/barretogustavo/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
 
