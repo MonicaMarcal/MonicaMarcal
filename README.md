@@ -1,4 +1,4 @@
-## Olá! Sou a Mônica :octocat: Sejam bem-vindos :space_invader:
+## Hi! I'm Monica :octocat: Welcome :space_invader:
 
 ###
 <p align="left">I live in Brazil, Santa Catarina <br>I am a systems analysis and development student <br>Backend Developer </p>
