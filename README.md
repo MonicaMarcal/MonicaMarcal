@@ -42,7 +42,7 @@
 </div>
 
 
-![Snake animation](https://github.com/monicamarcal/monicamarcal/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
