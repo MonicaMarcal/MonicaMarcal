@@ -1,14 +1,11 @@
-## Hi! I'm Monica :octocat: Welcome :space_invader:
+## Hi! Welcome :space_invader:
 
 ###
-<p align="left">I live in Brazil, Santa Catarina <br>I am a systems analysis and development student <br>Backend Developer </p>
+<img align='right' src="https://media2.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47aw3dypfmrgh36rs7b8vzbkhxjgpq0k7ebtsj95od&rid=giphy.gif&ct=g" width="280">
 
-<img align='right' src="https://giphy.com/embed/9PhdJO4CMfyfXDCnko/giphy.gif" width="230">
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9PhdJO4CMfyfXDCnko" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-9PhdJO4CMfyfXDCnko">via GIPHY</a></p>
-###
-<p align="left"></p>
+<p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Backend Developer</p>
 
-###
+
 <h3 align="left">Connect with me:</h3>
 
 ###
@@ -19,21 +16,20 @@
 
 
 
-###
-<h3 align="left">Programming languages ​​that I have experience with:</h3>
+## <h3> ⚡ Technologies that I have experience with: </h3>
 
-###
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  height="40" width="52" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"   height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" width="52" alt="bulma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
  
+
+
+ ## <div align="left">
+<img src="https://i.giphy.com/media/jTf2Io0LtBXGZddOVE/200w.webp" width="40"> <b>“Watch, listen and learn.</b> You can’t know it all yourself. <b>Anyone who thinks they do is destined for mediocrity.”</b>
+
 </div>
+
+
