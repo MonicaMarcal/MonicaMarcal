@@ -3,6 +3,8 @@
 ###
 <p align="left">I live in Brazil, Santa Catarina <br>I am a systems analysis and development student <br>Backend Developer </p>
 
+<img align='right' src="https://giphy.com/embed/9PhdJO4CMfyfXDCnko/giphy.gif" width="230">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9PhdJO4CMfyfXDCnko" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-9PhdJO4CMfyfXDCnko">via GIPHY</a></p>
 ###
 <p align="left"></p>
 
