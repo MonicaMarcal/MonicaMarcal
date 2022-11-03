@@ -5,7 +5,7 @@
 <img align='right' src="https://media2.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47aw3dypfmrgh36rs7b8vzbkhxjgpq0k7ebtsj95od&rid=giphy.gif&ct=g" width="260">
 
 </div>
-<p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Backend Developer</p>
+<p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Software developer</p>
 
 
 <h3 align="left">Connect with me:</h3>
