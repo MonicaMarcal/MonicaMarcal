@@ -2,7 +2,8 @@
 
 ###
 <div>
-  <iframe src="https://giphy.com/embed/24652QfeZzNIPzoH36" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a    href="https://giphy.com/gifs/nuevofoundation-nuvi-24652QfeZzNIPzoH36">via GIPHY</a></p>
+<img align='right' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=790b7611b5bb9bf19b0cbc312abb0a622fd72bd3d501ea48&rid=giphy.gif&ct=g" width="210">
+ 
 
 </div>
 <p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Software developer</p>
