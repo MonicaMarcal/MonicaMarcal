@@ -6,7 +6,7 @@
  
 
 </div>
-<p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Software developer</p>
+<p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Backend developer</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +23,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
