@@ -32,9 +32,9 @@
  ## <div align="left">
 <img src="https://i.giphy.com/media/jTf2Io0LtBXGZddOVE/200w.webp" width="40"> <b>“Watch, listen and learn.</b> You can’t know it all yourself. <b>Anyone who thinks they do is destined for mediocrity.”</b>
 
-
-
-![Snake animation](https://github.com/MonicaMarcal/MonicaMarcal/blob/output/github-contribution-grid-snake.svg)
  </div>
+
+
+
 
 
