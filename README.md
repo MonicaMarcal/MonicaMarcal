@@ -49,6 +49,6 @@
 
 ## 
 
-<div align="left"> <img src="https://i.giphy.com/media/jTf2Io0LtBXGZddOVE/200w.webp" width="40"> <b>“Watch, listen and learn.</b> You can’t know it all yourself. <b>Anyone who thinks they do is destined for mediocrity.”</b>
+<div align="left"> 🌎 “Nenhum problema pode ser resolvido pelo mesmo grau de consciência que o criou. É preciso ir mais longe” <i> - Albert Einstein.</i>
  </div>
 
