@@ -1,8 +1,7 @@
-## Olá! Bem vindos :space_invader:
-
+![Branca Simples Foto de Mulher Liquidação ou Negócio Beleza Feminina Capa para Facebook (3)](https://user-images.githubusercontent.com/63027699/216838980-e1049097-6a89-4c46-b15c-14ac1c98517c.png)
 
 ###
-<p align="left"> 🟣 Formada em analise e desenvolvimento de sistemas na <a href="https://www.uninter.com/"> universidade de Curitiba.</a> <br> 🟣 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
+<p align="left"> 🔵 Formada em analise e desenvolvimento de sistemas na <a href="https://www.uninter.com/"> universidade de Curitiba.</a> <br> 🔵 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
 
 ###
 
@@ -48,5 +47,9 @@
 
 <div align="left"> 🌎 “Nenhum problema pode ser resolvido pelo mesmo grau de consciência que o criou. É preciso ir mais longe” <i> - Albert Einstein.</i>
  </div>
+
+
+
+
 
 
