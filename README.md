@@ -1,24 +1,12 @@
 ## Hi! Welcome :space_invader:
-
-<table style="width:10%">
-  <tr>
-    <th>
-      <img src="">
-    </th>
-  </tr>
-</table>
-
+<h1 align="center">
+    <img alt="NextLevelWeek" title="" src="./images/banner.png" />
+</h1>
 
 ###
-<div>
-<img align='right' src="https://media3.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif?cid=790b7611b5bb9bf19b0cbc312abb0a622fd72bd3d501ea48&rid=giphy.gif&ct=g" width="210">
- 
-
-</div>
 <p align="left">I live in Brazil, Santa Catarina <br> Systems analysis and development at <a href="https://www.uninter.com/">University of Curitiba</a> <br>Backend developer</p>
 
-
-
+###
 
 <h3 align="left">Connect with me:</h3>
 
