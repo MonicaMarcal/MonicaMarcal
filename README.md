@@ -4,11 +4,12 @@
 </h1>
 
 ###
-<p align="left"> 🟣 Formada em Analise e desenvolvimento de sistemas <a href="https://www.uninter.com/">na universidade de Curitiba.</a> <br> 🟣 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
+
+<p align="left"> 🟣 Formada em analise e desenvolvimento de sistemas na <a href="https://www.uninter.com/"> universidade de Curitiba.</a> <br> 🟣 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
 
 ###
 
-<h3 align="left">Meus contatos:</h3>
+<h3 align="left">Meus Contatos:</h3>
 <div align="left">
   <a href = "mailto: monicamarcal93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/monica-software/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -39,6 +40,13 @@
  ![snake gif](https://github.com/MonicaMarcal/MonicaMarcal/blob/output/github-contribution-grid-snake.gif)
 
  
+## 
+
+| <a href="https://github.com/MonicaMarcal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonicaMarcal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Monica github stats" /></a> | <a href="https://github.com/MonicaMarcal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaMarcal&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
+
+<br />
+
 ## 
 
 <div align="left"> <img src="https://i.giphy.com/media/jTf2Io0LtBXGZddOVE/200w.webp" width="40"> <b>“Watch, listen and learn.</b> You can’t know it all yourself. <b>Anyone who thinks they do is destined for mediocrity.”</b>
