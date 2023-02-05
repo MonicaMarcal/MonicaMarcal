@@ -1,10 +1,7 @@
 ## Olá! Bem vindos :space_invader:
-<h1 align="center">
-    <img alt="NextLevelWeek" title="" src="./images/banner.png" />
-</h1>
+
 
 ###
-
 <p align="left"> 🟣 Formada em analise e desenvolvimento de sistemas na <a href="https://www.uninter.com/"> universidade de Curitiba.</a> <br> 🟣 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
 
 ###
@@ -51,4 +48,5 @@
 
 <div align="left"> 🌎 “Nenhum problema pode ser resolvido pelo mesmo grau de consciência que o criou. É preciso ir mais longe” <i> - Albert Einstein.</i>
  </div>
+
 
