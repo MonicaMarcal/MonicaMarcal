@@ -1,5 +1,4 @@
-![Branca Simples Foto de Mulher Liquidação ou Negócio Beleza Feminina Capa para Facebook (3)](https://user-images.githubusercontent.com/63027699/216838980-e1049097-6a89-4c46-b15c-14ac1c98517c.png)
-
+## Olá bem vindos!
 ###
 <p align="left"> 🔵 Formada em analise e desenvolvimento de sistemas na <a href="https://www.uninter.com/"> universidade de Curitiba.</a> <br> 🔵 Desenvolvedora com habilidades em <i>Frontend</i>, com foco no <i>Backend.</i></p>
 
@@ -38,8 +37,7 @@
  
 ## 
 
-| <a href="https://github.com/MonicaMarcal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonicaMarcal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Monica github stats" /></a> | <a href="https://github.com/MonicaMarcal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaMarcal&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-
+<a href="https://github.com/MonicaMarcal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MonicaMarcal&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
 <br />
 
