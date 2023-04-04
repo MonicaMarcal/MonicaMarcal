@@ -5,7 +5,7 @@
 
 <p align="left"> Developer who fell in love with the backend world, the way everything hangs together and works. Degree in systems analysis and development, with projects focused on web application functionality, API connectivity, and databases.</p>
 
-<p>I am very interested in improving my knowledge of architecture and security. I would like to specialize in developing more complete, secure and well-integrated applications.</p>
+<p> I am very interested in improving my knowledge of architecture and security. I would like to specialize in developing more complete, secure and well-integrated applications.</p>
 <br>
 
 
