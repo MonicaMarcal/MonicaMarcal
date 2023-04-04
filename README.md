@@ -3,10 +3,11 @@
 
 
 
-<p align="left"> Developer who fell in love with the backend world, how everything is connected and working, degree in systems analysis and development, with projects focused on web application functionality, API connectivity and databases.</p>
-<p>I am very interested in improving my knowledge in architecture and security, I want to specialize in bringing more complete, secure and well-integrated applications.
-</p>
+<p align="left"> Developer who fell in love with the backend world, the way everything hangs together and works. Degree in systems analysis and development, with projects focused on web application functionality, API connectivity, and databases.</p>
+
+<p>I am very interested in improving my knowledge of architecture and security. I would like to specialize in developing more complete, secure and well-integrated applications.</p>
 <br>
+
 
 ## Contacts:
 <div align="left">
