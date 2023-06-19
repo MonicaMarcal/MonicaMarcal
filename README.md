@@ -3,9 +3,9 @@
 
 
 
-<p align="left"> Developer who fell in love with the backend world, the way everything hangs together and works. Degree in systems analysis and development, with projects focused on web application functionality, API connectivity, and databases.</p>
+<p align="left">As a developer who has fallen in love with the backend world and the way everything comes together and works, I hold a degree in systems analysis and development. My projects have mainly focused on enhancing web application functionality, API connectivity, and databases.
 
-<p> I am very interested in improving my knowledge of architecture and security. I would like to specialize in developing more complete, secure and well-integrated applications.</p>
+I have a strong interest in expanding my knowledge of architecture and security, with the aim of specializing in the development of comprehensive, secure, and well-integrated applications.</p>
 <br>
 
 
