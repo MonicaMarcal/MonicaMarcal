@@ -49,7 +49,8 @@ I have a strong interest in expanding my knowledge of architecture and security,
 
 ## 
 
-<div align="left"> 🌎 “Like what you do, and then you will do your best.” <i> - Katherine Johnson.</i> </div>
+<div align="left"> 🌎 “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”
+<i> ― Aaron Swartz.</i> </div>
 
 
 
