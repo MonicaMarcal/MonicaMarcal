@@ -3,7 +3,8 @@
 
 
 
-<p align="left">As a developer who has fallen in love with the backend world and the way everything comes together and works, I hold a degree in systems analysis and development. My projects have mainly focused on enhancing web application functionality, API connectivity, and databases.
+<p align="left">
+As a developer who has fallen in love with the backend world and the way everything comes together and works, I hold a degree in systems analysis and development. My projects have mainly focused on enhancing web application functionality, API connectivity, and databases.
 
 I have a strong interest in expanding my knowledge of architecture and security, with the aim of specializing in the development of comprehensive, secure, and well-integrated applications.</p>
 <br>
@@ -16,7 +17,7 @@ I have a strong interest in expanding my knowledge of architecture and security,
 </div>
 <br>
 
-##  Skills:
+##  Techs:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,19 +32,18 @@ I have a strong interest in expanding my knowledge of architecture and security,
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
- 
-
- ![snake gif](https://github.com/MonicaMarcal/MonicaMarcal/blob/output/github-contribution-grid-snake.gif)
-
 <br>
  
- ## Details: 
-
-
-[![Monica GitHub stats](https://github-readme-stats.vercel.app/api?username=MonicaMarcal&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaMarcal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+ ## GitHub Stats: 
+ 
+<div style="display: inline_block", align="left">
+  <a href="#">
+  <img align="center" height="140"  src="https://github-readme-stats.vercel.app/api?username=monicamarcal&count_private=true&show_icons=true&theme=tokyonight&border_radius=15px">
+   </a>
+  <a href="#">
+ <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicamarcal&theme=tokyonight&border_radius=15px&layout=compact">
+  </a>
+</div>
 
 <br />
 
