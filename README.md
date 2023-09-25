@@ -1,16 +1,31 @@
 <h1 align="center">Mônica Marçal</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 
 
 <p align="left">
-As a developer who has fallen in love with the backend world and the way everything comes together and works, I hold a degree in systems analysis and development. My projects have mainly focused on enhancing web application functionality, API connectivity, and databases.
+  
+## Hello, I'm Mônica Marçal! 👋
 
-I have a strong interest in expanding my knowledge of architecture and security, with the aim of specializing in the development of comprehensive, secure, and well-integrated applications.</p>
+I'm passionate about technology, with a solid background in Analysis and Systems Development, and currently pursuing studies in Information Security.
+
+I have previous experience in customer service, which helped me develop valuable interpersonal skills and taught me the importance of communication and understanding the needs of end-users.
+
+### What I'm Currently Doing:
+
+- 📚 Studying and enhancing my skills in information security.
+- 🌐 Self-learning English to stay updated on the latest global technology trends.
+- 💻 Actively participating in the Santander Bootcamp, where I'm gaining knowledge in Fullstack Java and Angular.
+- 🚀 Expanding my knowledge as a Beginner Cybersecurity Analyst at Hackone.
+- 📦 Working with technologies like Java, JavaScript, HTML, CSS, MongoDB, MySQL, Angular, TypeScript, Spring Boot, and Node.js.
+
+<br>
+
+Feel free to explore my repositories and projects. I'm always open to collaborations and interesting discussions. Let's create something amazing together! 🚀.</p>
 <br>
 
 
-## Contacts:
+### Get in Touch:
 <div align="left">
   <a href = "mailto: monicamarcal93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/monica-software/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
