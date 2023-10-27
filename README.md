@@ -7,7 +7,7 @@
   
 ## Hello, I'm Mônica Marçal! 👋
 
-I'm passionate about technology, with a solid background in Analysis and Systems Development, and currently pursuing studies in Information Security.
+I'm passionate about technology and currently pursuing studies in Information Security.
 
 I have previous experience in customer service, which helped me develop valuable interpersonal skills and taught me the importance of communication and understanding the needs of end-users.
 
