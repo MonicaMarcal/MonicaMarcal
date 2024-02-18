@@ -2,22 +2,17 @@
 <h3 align="center">Full-stack Developer</h3>
 
 
-
 <p align="left">
   
 ## Hello, I'm Mônica Marçal! 👋
 
-I'm passionate about technology and currently pursuing studies in Information Security.
-
-I have previous experience in customer service, which helped me develop valuable interpersonal skills and taught me the importance of communication and understanding the needs of end-users.
-
-### What I'm Currently Doing:
-
-- 📚 Studying and enhancing my skills in information security.
-- 🌐 Self-learning English to stay updated on the latest global technology trends.
-- 💻 Actively participating in the Santander Bootcamp, where I'm gaining knowledge in Fullstack Java and Angular.
-- 🚀 Expanding my knowledge as a Beginner Cybersecurity Analyst at Hackone.
-- 📦 Working with technologies like Java, JavaScript, HTML, CSS, MongoDB, MySQL, Angular, TypeScript, Spring Boot, and Node.js.
+💚 Passionate about technology, programming, and enthusiastic about information security.
+  
+  ### What I'm Currently Doing:
+- 📚 Studying Information Security undergraduate program at <a href="https://www.unisociesc.com.br"> Unisociesc</a>.
+- 💻 Actively participating in the Santander Bootcamp, focused on acquiring knowledge in Java and Angular.
+- 🚀 Expanding my experience in cybersecurity at <a href="https://ava.hackersdobem.org.br/my/">HackersDoBem</a>, thereby enhancing my knowledge in networks and infrastructure.
+- 🌐 Working with technologies such as Java, JavaScript, HTML, CSS, MongoDB, MySQL, Angular, TypeScript, ReactJS, and Node.js.
 
 <br>
 
